@@ -4,7 +4,7 @@
 #- Si se deposita, sumar el monto al saldo.
 #- Mostrar mensajes claros en cada operación.
 
-print("---- Bienvenida a mi a BBVA ---")
+print("---- Bienvenida a BBVA ---")
 print("-°-°-°-°-Menú de Opciones-°-°-°-°-")
 print("1. Consultar saldo")
 print("2. Retirar")
