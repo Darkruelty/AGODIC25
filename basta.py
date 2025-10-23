@@ -29,7 +29,6 @@ while True:
 
     palabras = {}#Diccionario para almacenar las palabras que ingrese el usuario por categoría
     for categoria in categorias:
-        if 
         palabra = input(f"\nCon la letra {letra.upper()}, introduce {categoria}: ")
         palabras[categoria] = palabra
 
