@@ -37,7 +37,7 @@ while vidas > 0:
         else:
             # Reiniciar juego
             print("Empecemos, comienza a adivinar")
-            palabra_aleatoria = choice(palabra)
+            palabra_aleatoria = choice(palabra)cle
             tupalabra = ""
             vidas = 5    
 
